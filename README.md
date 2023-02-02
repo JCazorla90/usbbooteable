@@ -20,6 +20,5 @@ diskutil list
 
 #### 🚨🚨Asegúrese de reemplazar "/dev/disk2" por el nombre correcto del dispositivo USB. También es importante tener en cuenta que al ejecutar este script, todos los datos existentes en el dispositivo USB serán eliminados.
 
-###  :tw-1f537:Otros Sistemas :tw-1f537:
-
-También se incluyen scripts de ejemplo para sistemas Windows :fa-windows: y Linux :fa-qq: basados en Debian , para no depender de herramientas externas.
+### 🐱‍💻 Otros Sistemas 
+También se incluyen scripts de ejemplo para sistemas Windows y Linux basados en Debian , para no depender de herramientas externas.
