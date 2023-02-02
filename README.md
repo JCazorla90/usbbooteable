@@ -18,4 +18,4 @@ diskutil list
     diskutil mountDisk /dev/disk2
 
 
-####🚨🚨Asegúrese de reemplazar "/dev/disk2" por el nombre correcto del dispositivo USB. También es importante tener en cuenta que al ejecutar este script, todos los datos existentes en el dispositivo USB serán eliminados.
+#### 🚨🚨Asegúrese de reemplazar "/dev/disk2" por el nombre correcto del dispositivo USB. También es importante tener en cuenta que al ejecutar este script, todos los datos existentes en el dispositivo USB serán eliminados.
