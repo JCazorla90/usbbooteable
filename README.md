@@ -1,4 +1,4 @@
-# Crear Usb Booteable desde Macos 🍎
+# Crear Usb Booteable desde MacOS 🍎
 
 ![](https://lemppics.lemp.io/1661690001749.jpg)
 
